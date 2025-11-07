@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Agriverse",
+  "description": "A modern web application for renting agricultural machinery and products, featuring a vibrant community feed for farmers to connect, share posts, and engage with each other.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
